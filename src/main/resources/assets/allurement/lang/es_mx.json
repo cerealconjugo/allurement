@@ -1,5 +1,5 @@
 {
-	"death.attack.allurement.shockwave": "%1$s fue aplastado por %2$s"
+	"death.attack.allurement.shockwave": "%1$s fue aplastado por %2$s",
 	"death.attack.allurement.shockwave.item": "%1$s fue aplastado por %2$s usando %3$s",
 	"enchantment.allurement.alleviating": "Alivio",
 	"enchantment.allurement.alleviating.desc": "Cura al jugador al acumular experiencia",
